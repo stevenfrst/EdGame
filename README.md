@@ -24,7 +24,7 @@ git clone https://github.com/stevenfrst/EdGame.git
 
 Feel Free to edit & Pull Request
 
-Microservices With Docker + Nginx
+run With Docker + Nginx
 Docker Repos [link](https://hub.docker.com/r/stevenfrust/edgame/)
 ```bash
 apt-get update -y && apt-get upgrade
